@@ -16,14 +16,42 @@ We design and develop **ERP, MIS, accounting and financial systems, custom busin
 - **Business Automation & Integrations** — approvals, dashboards, reporting, APIs and system integrations
 - **Industry Software** — solutions for finance and Sarafi, healthcare and pharmacy, education, construction, real estate, manufacturing, mining, logistics, retail and other operational sectors
 
-## Products
+## Products & Solutions
 
-| Product | Focus |
+### Core products and platforms
+
+| Product / Solution | Focus |
 | --- | --- |
-| **Realist ERP** | Real estate and property operations |
-| **Prime Sarafi** | Currency exchange, remittance and multi-currency operations |
-| **Darmal ERP** | Pharmacy and pharmaceutical operations |
+| **Realist ERP** | Real estate, property, construction, contracts, accounting and operations |
+| **Petromin ERP** | ERP for engine-oil and lubricant businesses |
+| **Tameer ERP** | ERP for cement and construction-material businesses |
+| **WeSarafi** | Sarafi, exchange, remittance and financial operations |
+| **Prime Sarafi** | Multi-currency Sarafi and remittance platform |
+| **YuanRemit** | Yuan / CNY remittance management |
+| **CargoFlow** | Cargo, shipment and logistics management |
+| **Darmal ERP** | Pharmacy, pharmaceutical wholesale and distribution |
 | **OGRAYI** | Mobile account and balance management |
+| **Fida Business Suite** | Installable desktop business and Sarafi/Hawala management |
+| **Chilgoza Market System** | Offline-first pine-nut market purchases, sales and accounting |
+| **Fida Mining ERP** | Mining operations, production, equipment, finance and reporting |
+| **Approval-Based Expense System** | Financial expense requests, approvals, payment control and reporting |
+| **HesabPro** | Small-business accounting, inventory and day-to-day operations |
+| **Solar & Electrical ERP** | ERP for solar, electrical and electrician companies |
+| **Market Tenant Management System** | Shop, tenant, rent, payment and market operations |
+| **Building Management System (BMS)** | Building, units, tenants, services, maintenance and finance |
+| **Salt Mining ERP** | Salt extraction, processing, warehouses, HR, finance and sales |
+| **Carton Factory ERP** | Manufacturing, raw materials, production, inventory, sales and finance |
+| **Tailor Shop Management System** | Customers, measurements, orders, tailoring workflow and payments |
+| **Garment Business ERP** | Garment purchasing, production, inventory, wholesale/retail and finance |
+| **StatementGrid** | Web-based statement and document utility platform |
+| **ContentOS** | AI-assisted multi-site research, publishing and distribution platform |
+
+### Website platforms
+
+| Platform | Focus |
+| --- | --- |
+| **Real Estate Company Website Platform** | Premium real-estate company website with projects, properties, CMS and lead workflows |
+| **Technology Company Website Platform** | Corporate technology-company website with CMS, solutions, products, industries, projects and RFQ workflows |
 
 ## Technology
 
