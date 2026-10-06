@@ -45,7 +45,7 @@ We build multilingual software with support for **English, Dari and Pashto**, in
 ## Location
 
 **4th Floor, Al Munawara Plaza**  
-**Jada-e-Nadar Pashtoon, Kabul 1001, Afghanistan**
+**Jada-e-Maiwand, Kabul 1001, Afghanistan**
 
 ---
 
